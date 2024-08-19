@@ -1,0 +1,7 @@
+baseURL: https://hugodoit.pages.dev
+defaultContentLanguage: en
+title: DoIt
+enableRobotsTXT: yes
+enableGitInfo: yes
+enableEmoji: yes
+theme: DoIt
