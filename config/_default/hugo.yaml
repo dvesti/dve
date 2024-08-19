@@ -5,3 +5,8 @@ enableRobotsTXT: yes
 enableGitInfo: yes
 enableEmoji: yes
 theme: DoIt
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
