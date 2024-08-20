@@ -7,7 +7,7 @@ categories: []
 tags: []
 subtitle: 'Make your own personal website/blog with RStudio using blogdown'
 lastmod: '2024-08-20T17:35:57+03:00'
-draft: yes
+draft: no #yes
 authors: []
 description: ''
 series: []

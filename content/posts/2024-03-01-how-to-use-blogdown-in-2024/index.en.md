@@ -3,13 +3,11 @@ title: How to use blogdown in 2024
 author: Zihang Wang
 date: '2024-03-01'
 slug: []
-categories:
-  - Documentation
-tags:
-  - configuration
-subtitle: ''
+categories: []
+tags: []
+subtitle: 'Make your own personal website/blog with RStudio using blogdown'
 lastmod: '2024-08-20T17:35:57+03:00'
-draft: yes
+draft: no #yes
 authors: []
 description: ''
 series: []
@@ -25,8 +23,6 @@ lightgallery: no
 license: ''
 ---
 
-# How to use blogdown in 2024
-
 
 Build your own fancy personal website/blog with RStudio using blogdown in 2024!
 
@@ -40,7 +36,7 @@ Motivated by a [post](https://www.shilaan.com/post/building-your-website-using-r
 
 The existing tutorials regarding `Blogdown` are typically written in 2022 or earlier, so that there may be some outdated information. I tested their instructions and summarized into a doable solution. Following these steps, everyone should be able to create a personal website/blog with `blogdown` in 2024!
 
-![The overall workflow](overflow.png)
+![The overall workflow](https://zihangwang.org/2024-02-12-how-to-use-blogdown-in-2024/overflow.png)
 
 ## Create Github repo
 
@@ -54,7 +50,7 @@ The existing tutorials regarding `Blogdown` are typically written in 2022 or ear
 ## Create RStudio project
 1. We work on the local copy on our computer by cloning the remote Github repository into a new RStudio project, so that we can sync between remote repository and local desktop.
 
-![create git](rstudio_git.png)
+![create git](https://zihangwang.org/2024-02-12-how-to-use-blogdown-in-2024/rstudio_git.png)
 
 2. Open RStudio, click `File > New Project > Version Control > Git`.
 
@@ -74,7 +70,7 @@ install.packages('blogdown')
 ```
 
 2. We are about to use our first `blogdown` function to create a website with Hugo. Here is a list of [Hogo themes](https://themes.gohugo.io/) which can be chosen to serve as the template of your website. However, not all themes are supported perfectly by `blogdown`. It may be a wise choice to choose the theme that is actively maintained, or is documented to be supported by `blogdown`, see [these examples](https://bookdown.org/yihui/blogdown/other-themes.html). 
-![hugo themes](hugo.png)
+![hugo themes](https://zihangwang.org/2024-02-12-how-to-use-blogdown-in-2024/hugo.png)
 
 3. The template I choose to use is [`DoIt`](https://github.com/HEIGE-PCloud/DoIt). Luckily, this template is well-supported by `blogdown`. The command I use to initialize my website is
 
@@ -83,7 +79,7 @@ new_site(theme = "HEIGE-PCloud/DoIt")
 ```
 Note that the theme name is the same as the repository name on Github. If you use a different theme, you should replace `HEIGE-PCloud/DoIt` with the theme name your choose.
 
-![dolt](dolt.png)
+![dolt](https://zihangwang.org/2024-02-12-how-to-use-blogdown-in-2024/dolt.png)
 
 4. We can now see some message showing `blogdown` is building the site. Take a moment to read through those messages, and take necessary actions. Importantly, we can use 
 
