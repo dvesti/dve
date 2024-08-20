@@ -159,4 +159,4 @@ This is a footnote with "label"[^label]
 
 ![Minion](https://octodex.github.com/images/minion.png)
 
-![Alt text](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+![Alt text](https://octodex.github.com/images/stormtroopocat.png "The Stormtroopocat")

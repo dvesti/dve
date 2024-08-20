@@ -1,71 +1,70 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - DoIt</title>
-        <link>http://localhost:4321/tags/</link>
+        <link>https://hugodoit.pages.dev/tags/</link>
         <description>Tags - Tag - DoIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
-            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 11 Aug 2022 14:53:59 &#43;0100</lastBuildDate><atom:link href="http://localhost:4321/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 11 Aug 2022 14:53:59 &#43;0100</lastBuildDate><atom:link href="https://hugodoit.pages.dev/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Markdown</title>
-    <link>http://localhost:4321/tags/markdown/</link>
+    <link>https://hugodoit.pages.dev/tags/markdown/</link>
     <pubDate>Thu, 11 Aug 2022 14:53:59 &#43;0100</pubDate><author>
-        <name>PCloud</name>
-    </author><guid>http://localhost:4321/tags/markdown/</guid>
+        <name>Author</name>
+    </author><guid>https://hugodoit.pages.dev/tags/markdown/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Shortcodes</title>
-    <link>http://localhost:4321/tags/shortcodes/</link>
+    <link>https://hugodoit.pages.dev/tags/shortcodes/</link>
     <pubDate>Thu, 11 Aug 2022 14:53:59 &#43;0100</pubDate><author>
-        <name>PCloud</name>
-    </author><guid>http://localhost:4321/tags/shortcodes/</guid>
+        <name>Author</name>
+    </author><guid>https://hugodoit.pages.dev/tags/shortcodes/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Diagram</title>
-    <link>http://localhost:4321/tags/diagram/</link>
+    <link>https://hugodoit.pages.dev/tags/diagram/</link>
     <pubDate>Mon, 28 Feb 2022 14:27:14 &#43;0000</pubDate><author>
-        <name>PCloud</name>
-    </author><guid>http://localhost:4321/tags/diagram/</guid>
+        <name>Author</name>
+    </author><guid>https://hugodoit.pages.dev/tags/diagram/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>PWA</title>
-    <link>http://localhost:4321/tags/pwa/</link>
+    <link>https://hugodoit.pages.dev/tags/pwa/</link>
     <pubDate>Mon, 10 May 2021 16:21:41 &#43;0100</pubDate><author>
-        <name>PCloud</name>
-    </author><guid>http://localhost:4321/tags/pwa/</guid>
+        <name>Author</name>
+    </author><guid>https://hugodoit.pages.dev/tags/pwa/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>HTML</title>
-    <link>http://localhost:4321/tags/html/</link>
+    <link>https://hugodoit.pages.dev/tags/html/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate><author>
-        <name>PCloud</name>
-    </author><guid>http://localhost:4321/tags/html/</guid>
+        <name>Author</name>
+    </author><guid>https://hugodoit.pages.dev/tags/html/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Emoji</title>
-    <link>http://localhost:4321/tags/emoji/</link>
+    <link>https://hugodoit.pages.dev/tags/emoji/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate><author>
-        <name>PCloud</name>
-    </author><guid>http://localhost:4321/tags/emoji/</guid>
+        <name>Author</name>
+    </author><guid>https://hugodoit.pages.dev/tags/emoji/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>configuration</title>
-    <link>http://localhost:4321/tags/configuration/</link>
+    <link>https://hugodoit.pages.dev/tags/configuration/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
-        <name>PCloud</name>
-    </author><guid>http://localhost:4321/tags/configuration/</guid>
+        <name>Author</name>
+    </author><guid>https://hugodoit.pages.dev/tags/configuration/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>content</title>
-    <link>http://localhost:4321/tags/content/</link>
+    <link>https://hugodoit.pages.dev/tags/content/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
-        <name>PCloud</name>
-    </author><guid>http://localhost:4321/tags/content/</guid>
+        <name>Author</name>
+    </author><guid>https://hugodoit.pages.dev/tags/content/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>installation</title>
-    <link>http://localhost:4321/tags/installation/</link>
+    <link>https://hugodoit.pages.dev/tags/installation/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
-        <name>PCloud</name>
-    </author><guid>http://localhost:4321/tags/installation/</guid>
+        <name>Author</name>
+    </author><guid>https://hugodoit.pages.dev/tags/installation/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

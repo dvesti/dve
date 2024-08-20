@@ -21,7 +21,7 @@ options(
   # to disable knitting Rmd files on save, set this option to FALSE
   blogdown.knit.on_save = FALSE,
   blogdown.author = "Dvesti",
-  blogdown.ext = ".Rmarkdown", 
+  blogdown.ext = ".md", 
   blogdown.subdir = "posts" ,
   # build .Rmd to .md; to build to .html (via Pandoc), set this option to 'html'
   blogdown.method = 'markdown'
