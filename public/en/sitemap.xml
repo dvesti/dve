@@ -93,7 +93,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/pwa-support/"
                     /></url><url>
-            <loc>http://localhost:4321/en/categories/</loc><lastmod>2024-08-20T17:35:57&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/en/categories/</loc><lastmod>2024-08-20T17:43:52&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/categories/"
@@ -115,7 +115,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/codeblock-tests/"
                     /></url><url>
-            <loc>http://localhost:4321/en/</loc><lastmod>2024-08-20T17:35:57&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/en/</loc><lastmod>2024-08-20T17:43:52&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/"
@@ -141,7 +141,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/authors/pcloud/"
                     /></url><url>
-            <loc>http://localhost:4321/en/posts/</loc><lastmod>2024-08-20T17:35:57&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/en/posts/</loc><lastmod>2024-08-20T17:43:52&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/posts/"
@@ -167,7 +167,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/categories/tests/"
                     /></url><url>
-            <loc>http://localhost:4321/en/2024-03-01-how-to-use-blogdown-in-2024/</loc><lastmod>2024-08-20T17:35:57&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/en/2024-03-01-how-to-use-blogdown-in-2024/</loc><lastmod>2024-08-20T17:43:52&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/2024-03-01-how-to-use-blogdown-in-2024/"
@@ -176,7 +176,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/2024-03-01-how-to-use-blogdown-in-2024/"
                     /></url><url>
-            <loc>http://localhost:4321/en/tags/</loc><lastmod>2024-08-20T17:35:57&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/en/tags/</loc><lastmod>2024-08-20T17:43:52&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/tags/"

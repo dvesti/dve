@@ -188,7 +188,7 @@
                 setTheme('auto'), saveTheme('auto'); 
             else saveTheme('auto'), window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? setTheme('dark') : setTheme('light');
         }
-        let metaColors = {'light': '#f8f8f8','dark': '#161b22'}
+        let metaColors = {'light': '#f8f8f8','dark': '#252627'}
         getMeta('theme-color').content = metaColors[document.body.getAttribute('theme')];
         window.switchThemeEventSet = new Set()
     </script>

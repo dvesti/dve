@@ -742,7 +742,7 @@ function initMeta() {
   const themeColorMeta = getMeta("theme-color");
   const metaColors = {
     light: "#f8f8f8",
-    dark: "#161b22",
+    dark: "#252627",
   };
   window._metaThemeColorOnSwitchTheme = () => {
     themeColorMeta.content = metaColors[document.body.getAttribute("theme")];
