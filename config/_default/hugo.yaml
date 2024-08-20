@@ -5,6 +5,7 @@ enableRobotsTXT: yes
 enableGitInfo: yes
 enableEmoji: yes
 theme: DoIt
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 markup:
   goldmark:

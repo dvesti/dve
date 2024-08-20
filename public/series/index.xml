@@ -3,26 +3,26 @@
         <title>Series - Серии - DoIt</title>
         <link>http://localhost:4321/series/</link>
         <description>Series - Серии - DoIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 28 Feb 2022 14:27:14 &#43;0000</lastBuildDate><atom:link href="http://localhost:4321/series/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:4321/series/" rel="self" type="application/rss+xml" /><item>
+    <title>Getting start with DoIt</title>
+    <link>http://localhost:4321/series/getting-start/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
+        <name>Автор</name>
+    </author><guid>http://localhost:4321/series/getting-start/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>How to DoIt</title>
     <link>http://localhost:4321/series/how-to-doit/</link>
-    <pubDate>Mon, 28 Feb 2022 14:27:14 &#43;0000</pubDate><author>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
         <name>Автор</name>
     </author><guid>http://localhost:4321/series/how-to-doit/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Test Series</title>
     <link>http://localhost:4321/series/test-series/</link>
-    <pubDate>Sat, 03 Jul 2021 22:15:26 &#43;0800</pubDate><author>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
         <name>Автор</name>
     </author><guid>http://localhost:4321/series/test-series/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Getting start with DoIt</title>
-    <link>http://localhost:4321/series/getting-start/</link>
-    <pubDate>Fri, 06 Mar 2020 16:29:41 &#43;0800</pubDate><author>
-        <name>Автор</name>
-    </author><guid>http://localhost:4321/series/getting-start/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

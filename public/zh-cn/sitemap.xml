@@ -119,7 +119,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:4321/zh-cn/tags/diagram/"
                     /></url><url>
-            <loc>http://localhost:4321/zh-cn/</loc><lastmod>2024-08-20T13:58:29&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/zh-cn/</loc><lastmod>2024-08-20T16:44:25&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/"
@@ -301,7 +301,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:4321/zh-cn/tags/emoji/"
                     /></url><url>
-            <loc>http://localhost:4321/zh-cn/about/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/zh-cn/about/</loc><lastmod>2024-08-20T16:44:25&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:4321/en/about/"
@@ -316,12 +316,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/series/how-to-doit/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="ru"
-                        href="http://localhost:4321/series/how-to-doit/"
-                        /><xhtml:link
-                        rel="alternate"
                         hreflang="en"
                         href="http://localhost:4321/en/series/how-to-doit/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="http://localhost:4321/series/how-to-doit/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -329,12 +329,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/installation/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="ru"
-                        href="http://localhost:4321/tags/installation/"
-                        /><xhtml:link
-                        rel="alternate"
                         hreflang="en"
                         href="http://localhost:4321/en/tags/installation/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="http://localhost:4321/tags/installation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -342,12 +342,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/series/test-series/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="ru"
-                        href="http://localhost:4321/series/test-series/"
-                        /><xhtml:link
-                        rel="alternate"
                         hreflang="en"
                         href="http://localhost:4321/en/series/test-series/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="http://localhost:4321/series/test-series/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -355,12 +355,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/series/getting-start/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="ru"
-                        href="http://localhost:4321/series/getting-start/"
-                        /><xhtml:link
-                        rel="alternate"
                         hreflang="en"
                         href="http://localhost:4321/en/series/getting-start/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="http://localhost:4321/series/getting-start/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -368,12 +368,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/content/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="ru"
-                        href="http://localhost:4321/tags/content/"
-                        /><xhtml:link
-                        rel="alternate"
                         hreflang="en"
                         href="http://localhost:4321/en/tags/content/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="http://localhost:4321/tags/content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -381,12 +381,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/configuration/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="ru"
-                        href="http://localhost:4321/tags/configuration/"
-                        /><xhtml:link
-                        rel="alternate"
                         hreflang="en"
                         href="http://localhost:4321/en/tags/configuration/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="http://localhost:4321/tags/configuration/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -394,12 +394,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/categories/documentation/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="ru"
-                        href="http://localhost:4321/categories/documentation/"
-                        /><xhtml:link
-                        rel="alternate"
                         hreflang="en"
                         href="http://localhost:4321/en/categories/documentation/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="http://localhost:4321/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -407,12 +407,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/series/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="ru"
-                        href="http://localhost:4321/series/"
-                        /><xhtml:link
-                        rel="alternate"
                         hreflang="en"
                         href="http://localhost:4321/en/series/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="http://localhost:4321/series/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -420,12 +420,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/authors/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="ru"
-                        href="http://localhost:4321/authors/"
-                        /><xhtml:link
-                        rel="alternate"
                         hreflang="en"
                         href="http://localhost:4321/en/authors/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="http://localhost:4321/authors/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
