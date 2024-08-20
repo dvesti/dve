@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - DoIt</title>
-        <link>http://localhost:6446/categories/</link>
+        <link>http://localhost:4321/categories/</link>
         <description>Categories - Category - DoIt</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
-            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 11 May 2024 17:54:33 &#43;0100</lastBuildDate><atom:link href="http://localhost:6446/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 11 May 2024 17:54:33 &#43;0100</lastBuildDate><atom:link href="http://localhost:4321/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Tests</title>
-    <link>http://localhost:6446/categories/tests/</link>
+    <link>http://localhost:4321/categories/tests/</link>
     <pubDate>Sat, 11 May 2024 17:54:33 &#43;0100</pubDate><author>
         <name>PCloud</name>
-    </author><guid>http://localhost:6446/categories/tests/</guid>
+    </author><guid>http://localhost:4321/categories/tests/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Documentation</title>
-    <link>http://localhost:6446/categories/documentation/</link>
+    <link>http://localhost:4321/categories/documentation/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
         <name>PCloud</name>
-    </author><guid>http://localhost:6446/categories/documentation/</guid>
+    </author><guid>http://localhost:4321/categories/documentation/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

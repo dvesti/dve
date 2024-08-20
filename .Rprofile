@@ -1,3 +1,8 @@
+source.utf8 <- function(f) {
+  l <- readLines(f, encoding="UTF-8")
+  eval(parse(text=l),envir=.GlobalEnv)
+}
+
 # REMEMBER to restart R after you modify and save this file!
 
 # First, execute the global .Rprofile if it exists. You may configure blogdown
