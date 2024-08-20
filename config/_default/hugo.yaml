@@ -1,5 +1,5 @@
 baseURL: https://dve.netlify.app
-defaultContentLanguage: en
+defaultContentLanguage: ru
 title: DoIt
 enableRobotsTXT: yes
 enableGitInfo: yes

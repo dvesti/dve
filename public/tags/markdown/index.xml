@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Markdown - Tag - DoIt</title>
+        <title>Markdown - Тэг - DoIt</title>
         <link>http://localhost:4321/tags/markdown/</link>
-        <description>Markdown - Tag - DoIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 11 Aug 2022 14:53:59 &#43;0100</lastBuildDate><atom:link href="http://localhost:4321/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+        <description>Markdown - Тэг - DoIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 11 Aug 2022 14:53:59 &#43;0100</lastBuildDate><atom:link href="http://localhost:4321/tags/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Content</title>
     <link>http://localhost:4321/theme-documentation-content/</link>
     <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><author>

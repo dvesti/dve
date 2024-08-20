@@ -5,9 +5,9 @@ categories:
 - Tests
 date: "2021-04-16T14:29:46+01:00"
 description: Typeit Tests
-draft: true
-hiddenFromHomePage: true
-hiddenFromSearch: true
+draft: false #true
+hiddenFromHomePage: false #true
+hiddenFromSearch: false #true
 lastmod: "2021-04-16T14:29:46+01:00"
 title: Typeit Tests
 ---
@@ -33,3 +33,7 @@ public class HelloWorld {
 {{< typeit group=paragraph >}}
 **Then** this paragraph begins
 {{< /typeit >}}
+
+тест  
+русский  
+

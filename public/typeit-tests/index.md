@@ -23,3 +23,7 @@ public class HelloWorld {
 **Then** this paragraph begins
 {{< /typeit >}}
 
+тест  
+русский  
+
+

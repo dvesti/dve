@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>How to DoIt - Series - DoIt</title>
+        <title>How to DoIt - Серии - DoIt</title>
         <link>http://localhost:4321/series/how-to-doit/</link>
-        <description>How to DoIt - Series - DoIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:4321/series/how-to-doit/" rel="self" type="application/rss+xml" /><item>
+        <description>How to DoIt - Серии - DoIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 28 Feb 2022 14:27:14 &#43;0000</lastBuildDate><atom:link href="http://localhost:4321/series/how-to-doit/" rel="self" type="application/rss+xml" /><item>
     <title>How to create diagrams in DoIt</title>
     <link>http://localhost:4321/create-diagrams/</link>
     <pubDate>Mon, 28 Feb 2022 14:27:14 &#43;0000</pubDate><author>

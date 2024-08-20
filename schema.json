@@ -13,8 +13,8 @@
     "defaultContentLanguage": {
       "type": "string",
       "description": "Content without language indicator will default to this language.",
-      "examples": ["en", "zh-cn", "fr", "pl"],
-      "default": "en"
+      "examples": ["ru", "en", "zh-cn", "fr", "pl"],
+      "default": "ru"
     },
     "theme": {
       "type": ["string", "array"],

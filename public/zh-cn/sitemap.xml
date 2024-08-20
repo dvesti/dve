@@ -5,6 +5,10 @@
             <loc>http://localhost:4321/zh-cn/theme-documentation-basics/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
+                        href="http://localhost:4321/en/theme-documentation-basics/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
                         href="http://localhost:4321/theme-documentation-basics/"
                         /><xhtml:link
                     rel="alternate"
@@ -14,6 +18,10 @@
             <loc>http://localhost:4321/zh-cn/theme-documentation-content/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
+                        href="http://localhost:4321/en/theme-documentation-content/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
                         href="http://localhost:4321/theme-documentation-content/"
                         /><xhtml:link
                     rel="alternate"
@@ -23,6 +31,10 @@
             <loc>http://localhost:4321/zh-cn/theme-documentation-built-in-shortcodes/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
+                        href="http://localhost:4321/en/theme-documentation-built-in-shortcodes/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
                         href="http://localhost:4321/theme-documentation-built-in-shortcodes/"
                         /><xhtml:link
                     rel="alternate"
@@ -32,6 +44,10 @@
             <loc>http://localhost:4321/zh-cn/theme-documentation-extended-shortcodes/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
+                        href="http://localhost:4321/en/theme-documentation-extended-shortcodes/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
                         href="http://localhost:4321/theme-documentation-extended-shortcodes/"
                         /><xhtml:link
                     rel="alternate"
@@ -41,6 +57,10 @@
             <loc>http://localhost:4321/zh-cn/basic-markdown-syntax/</loc><lastmod>2024-08-20T13:58:29&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
+                        href="http://localhost:4321/en/basic-markdown-syntax/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
                         href="http://localhost:4321/basic-markdown-syntax/"
                         /><xhtml:link
                     rel="alternate"
@@ -50,6 +70,10 @@
             <loc>http://localhost:4321/zh-cn/emoji-support/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
+                        href="http://localhost:4321/en/emoji-support/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
                         href="http://localhost:4321/emoji-support/"
                         /><xhtml:link
                     rel="alternate"
@@ -59,6 +83,10 @@
             <loc>http://localhost:4321/zh-cn/pwa-support/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
+                        href="http://localhost:4321/en/pwa-support/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
                         href="http://localhost:4321/pwa-support/"
                         /><xhtml:link
                     rel="alternate"
@@ -67,8 +95,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/categories/</loc><lastmod>2024-08-20T13:58:29&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/categories/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -76,8 +108,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/diagram/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/tags/diagram/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/tags/diagram/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -85,8 +121,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/</loc><lastmod>2024-08-20T13:58:29&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -94,8 +134,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/markdown/</loc><lastmod>2024-08-20T13:58:29&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/tags/markdown/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/tags/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -103,8 +147,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/authors/pcloud/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/authors/pcloud/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/authors/pcloud/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -112,8 +160,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/posts/</loc><lastmod>2024-08-20T13:58:29&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -121,8 +173,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/</loc><lastmod>2024-08-20T13:58:29&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -131,6 +187,10 @@
             <loc>http://localhost:4321/zh-cn/create-diagrams/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
+                        href="http://localhost:4321/en/create-diagrams/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
                         href="http://localhost:4321/create-diagrams/"
                         /><xhtml:link
                     rel="alternate"
@@ -140,6 +200,10 @@
             <loc>http://localhost:4321/zh-cn/showcase/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
+                        href="http://localhost:4321/en/showcase/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
                         href="http://localhost:4321/showcase/"
                         /><xhtml:link
                     rel="alternate"
@@ -148,8 +212,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/categories/tests/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/categories/tests/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/categories/tests/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -158,6 +226,10 @@
             <loc>http://localhost:4321/zh-cn/series-taxonomy-tests/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
+                        href="http://localhost:4321/en/series-taxonomy-tests/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
                         href="http://localhost:4321/series-taxonomy-tests/"
                         /><xhtml:link
                     rel="alternate"
@@ -166,8 +238,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/pwa/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/tags/pwa/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/tags/pwa/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -175,8 +251,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/authors/dillon/</loc><lastmod>2024-08-20T13:58:29&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/authors/dillon/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/authors/dillon/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -184,8 +264,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/shortcodes/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/tags/shortcodes/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/tags/shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -193,8 +277,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/html/</loc><lastmod>2024-08-20T13:58:29&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/tags/html/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/tags/html/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -202,8 +290,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/emoji/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/tags/emoji/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/tags/emoji/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -212,6 +304,10 @@
             <loc>http://localhost:4321/zh-cn/about/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
+                        href="http://localhost:4321/en/about/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
                         href="http://localhost:4321/about/"
                         /><xhtml:link
                     rel="alternate"
@@ -220,8 +316,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/series/how-to-doit/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/series/how-to-doit/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/series/how-to-doit/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -229,8 +329,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/installation/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/tags/installation/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/tags/installation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -238,8 +342,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/series/test-series/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/series/test-series/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/series/test-series/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -247,8 +355,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/series/getting-start/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/series/getting-start/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/series/getting-start/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -256,8 +368,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/content/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/tags/content/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/tags/content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -265,8 +381,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/tags/configuration/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/tags/configuration/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/tags/configuration/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -274,8 +394,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/categories/documentation/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/categories/documentation/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -283,8 +407,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/series/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/series/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/series/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -292,8 +420,12 @@
                     /></url><url>
             <loc>http://localhost:4321/zh-cn/authors/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
-                        hreflang="en"
+                        hreflang="ru"
                         href="http://localhost:4321/authors/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:4321/en/authors/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
