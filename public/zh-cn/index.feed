@@ -1,6 +1,6 @@
 {
     "version" : "https://jsonfeed.org/version/1.1",
-    "title" : "DoIt",
+    "title" : "Bolt",
     "description": "Hugo DoIt 主题官方文档",
     "home_page_url" : "http://localhost:4321/",
     "feed_url" : "http://localhost:4321/zh-cn/index.feed",

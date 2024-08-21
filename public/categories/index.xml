@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Категория - DoIt</title>
+        <title>Categories - Категория - Bolt</title>
         <link>http://localhost:4321/categories/</link>
-        <description>Categories - Категория - DoIt</description>
+        <description>Categories - Категория - Bolt</description>
         <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 11 May 2024 17:54:33 &#43;0100</lastBuildDate><atom:link href="http://localhost:4321/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Tests</title>
     <link>http://localhost:4321/categories/tests/</link>

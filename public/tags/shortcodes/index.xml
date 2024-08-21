@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Shortcodes - Тэг - DoIt</title>
+        <title>Shortcodes - Тэг - Bolt</title>
         <link>http://localhost:4321/tags/shortcodes/</link>
-        <description>Shortcodes - Тэг - DoIt</description>
+        <description>Shortcodes - Тэг - Bolt</description>
         <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 11 Aug 2022 14:53:59 &#43;0100</lastBuildDate><atom:link href="http://localhost:4321/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Built-in Shortcodes</title>
     <link>http://localhost:4321/theme-documentation-built-in-shortcodes/</link>

@@ -1,6 +1,6 @@
 baseURL: https://dve.netlify.app
 defaultContentLanguage: ru
-title: DoIt
+title: Bolt
 enableRobotsTXT: yes
 enableGitInfo: yes
 enableEmoji: yes

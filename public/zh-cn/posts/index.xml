@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - DoIt</title>
+        <title>所有文章 - Bolt</title>
         <link>http://localhost:4321/zh-cn/posts/</link>
-        <description>所有文章 | DoIt</description>
+        <description>所有文章 | Bolt</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 28 Feb 2022 14:27:14 &#43;0000</lastBuildDate><atom:link href="http://localhost:4321/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Markdown 基本语法</title>
     <link>http://localhost:4321/zh-cn/basic-markdown-syntax/</link>

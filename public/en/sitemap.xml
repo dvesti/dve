@@ -93,7 +93,20 @@
                     hreflang="en"
                     href="http://localhost:4321/en/pwa-support/"
                     /></url><url>
-            <loc>http://localhost:4321/en/categories/</loc><lastmod>2024-08-20T17:43:52&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/en/</loc><lastmod>2024-08-21T01:27:02&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="http://localhost:4321/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="http://localhost:4321/zh-cn/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:4321/en/"
+                    /></url><url>
+            <loc>http://localhost:4321/en/categories/</loc><lastmod>2024-08-20T16:44:25&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/categories/"
@@ -115,19 +128,6 @@
                     hreflang="en"
                     href="http://localhost:4321/en/codeblock-tests/"
                     /></url><url>
-            <loc>http://localhost:4321/en/</loc><lastmod>2024-08-20T17:43:52&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="http://localhost:4321/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:4321/zh-cn/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:4321/en/"
-                    /></url><url>
             <loc>http://localhost:4321/en/authors/pcloud/</loc><lastmod>2024-08-20T16:44:25&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
@@ -141,7 +141,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/authors/pcloud/"
                     /></url><url>
-            <loc>http://localhost:4321/en/posts/</loc><lastmod>2024-08-20T17:43:52&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/en/posts/</loc><lastmod>2024-08-21T01:27:02&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/posts/"
@@ -167,7 +167,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/categories/tests/"
                     /></url><url>
-            <loc>http://localhost:4321/en/2024-03-01-how-to-use-blogdown-in-2024/</loc><lastmod>2024-08-20T17:43:52&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/en/2024-03-01-how-to-use-blogdown-in-2024/</loc><lastmod>2024-08-21T01:27:02&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/2024-03-01-how-to-use-blogdown-in-2024/"
@@ -175,19 +175,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="http://localhost:4321/en/2024-03-01-how-to-use-blogdown-in-2024/"
-                    /></url><url>
-            <loc>http://localhost:4321/en/tags/</loc><lastmod>2024-08-20T17:43:52&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="http://localhost:4321/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:4321/zh-cn/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:4321/en/tags/"
                     /></url><url>
             <loc>http://localhost:4321/en/tab-tests/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -232,6 +219,19 @@
                     rel="alternate"
                     hreflang="en"
                     href="http://localhost:4321/en/tags/shortcodes/"
+                    /></url><url>
+            <loc>http://localhost:4321/en/tags/</loc><lastmod>2024-08-20T13:58:29&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="http://localhost:4321/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="http://localhost:4321/zh-cn/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:4321/en/tags/"
                     /></url><url>
             <loc>http://localhost:4321/en/tags/diagram/</loc><lastmod>2024-08-20T01:01:32&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"

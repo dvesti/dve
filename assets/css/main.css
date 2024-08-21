@@ -600,12 +600,12 @@ ul {
 
 html.dark {
   /* ========== primitives ========== */
-  --fgColor-default: #e6edf3;
-  --fgColor-secondary: #d4dbe1;
+  --fgColor-default: #A9A9B3;
+  --fgColor-secondary: #D4DBD3;
   --fgColor-muted: #848d97;
   --fgColor-link: #4493f8;
   --fgColor-link-hover: #61adff;
-  --bgColor-default: #0d1117;
+  --bgColor-default: #292A2D;
   --bgColor-secondary: #252627;
   --bgColor-accent-emphasis: #1f6feb;
   --bgColor-accent-muted: #388bfd1a;
