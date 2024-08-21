@@ -7,8 +7,8 @@ categories:
 date: "2020-03-06T16:29:41+08:00"
 description: DoIt theme provides multiple shortcodes on top of built-in ones in Hugo.
 draft: false
-featuredImage: featured-image.webp
-featuredImagePreview: featured-image-preview.webp
+featuredImage: featured-image.jpg
+featuredImagePreview: featured-image-preview.jpg
 lastmod: "2020-03-06T16:29:41+08:00"
 lightgallery: true
 math:

@@ -8,7 +8,7 @@ date: "2020-03-05T16:29:41+08:00"
 description: Hugo provides multiple built-in shortcodes for author convenience and
   to keep your markdown content clean.
 draft: false
-featuredImage: featured-image.webp
+featuredImage: featured-image.png
 lastmod: "2020-03-05T16:29:41+08:00"
 lightgallery: true
 series:

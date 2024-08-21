@@ -153,7 +153,7 @@
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate><author>
                         <name>Dillon</name><uri>https://dillonzq.com</uri></author><guid>http://localhost:4321/emoji-support/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/emoji-support/featured-image.webp" referrerpolicy="no-referrer">
+                <img src="/emoji-support/featured-image.jpg" referrerpolicy="no-referrer">
             </div><p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
 </item><item>
     <title>Basic Markdown Syntax</title>
@@ -161,7 +161,7 @@
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate><author>
                         <name>Dillon</name><uri>https://dillonzq.com</uri></author><guid>http://localhost:4321/basic-markdown-syntax/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/basic-markdown-syntax/featured-image.webp" referrerpolicy="no-referrer">
+                <img src="/basic-markdown-syntax/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
 </item><item>
     <title>Theme Documentation - Extended Shortcodes</title>
@@ -170,7 +170,7 @@
                         <name>Dillon</name><uri>https://dillonzq.com</uri></author><author>
                         <name>PCloud</name><uri>https://github.com/HEIGE-PCloud</uri><email>heige.pcloud@outlook.com</email></author><guid>http://localhost:4321/theme-documentation-extended-shortcodes/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/theme-documentation-extended-shortcodes/featured-image-preview.webp" referrerpolicy="no-referrer">
+                <img src="/theme-documentation-extended-shortcodes/featured-image-preview.jpg" referrerpolicy="no-referrer">
             </div><p><strong>DoIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
 </item><item>
     <title>Theme Documentation - Built-in Shortcodes</title>
@@ -179,7 +179,7 @@
                         <name>Dillon</name><uri>https://dillonzq.com</uri></author><author>
                         <name>PCloud</name><uri>https://github.com/HEIGE-PCloud</uri><email>heige.pcloud@outlook.com</email></author><guid>http://localhost:4321/theme-documentation-built-in-shortcodes/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/theme-documentation-built-in-shortcodes/featured-image.webp" referrerpolicy="no-referrer">
+                <img src="/theme-documentation-built-in-shortcodes/featured-image.png" referrerpolicy="no-referrer">
             </div><p><strong>Hugo</strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.</p>]]></description>
 </item><item>
     <title>Theme Documentation - Content</title>
@@ -188,7 +188,7 @@
                         <name>Dillon</name><uri>https://dillonzq.com</uri></author><author>
                         <name>PCloud</name><uri>https://github.com/HEIGE-PCloud</uri><email>heige.pcloud@outlook.com</email></author><guid>http://localhost:4321/theme-documentation-content/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/theme-documentation-content/featured-image.webp" referrerpolicy="no-referrer">
+                <img src="/theme-documentation-content/featured-image.jpg" referrerpolicy="no-referrer">
             </div><p>Find out how to create and organize your content quickly and intuitively in <strong>DoIt</strong> theme.</p>]]></description>
 </item><item>
     <title>Theme Documentation - Basics</title>
@@ -197,7 +197,7 @@
                         <name>Dillon</name><uri>https://dillonzq.com</uri></author><author>
                         <name>PCloud</name><uri>https://github.com/HEIGE-PCloud</uri><email>heige.pcloud@outlook.com</email></author><guid>http://localhost:4321/theme-documentation-basics/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/theme-documentation-basics/featured-image.webp" referrerpolicy="no-referrer">
+                <img src="/theme-documentation-basics/featured-image.jpg" referrerpolicy="no-referrer">
             </div><p>Discover what the Hugo - <strong>DoIt</strong> theme is all about and the core-concepts behind it.</p>]]></description>
 </item><item>
     <title>Person Tests</title>

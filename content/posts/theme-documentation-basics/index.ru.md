@@ -8,7 +8,7 @@ date: "2020-03-03T21:29:01+08:00"
 description: Discover what the Hugo - DoIt theme is all about and the core-concepts
   behind it.
 draft: false
-featuredImage: featured-image.webp
+featuredImage: featured-image.jpg
 lastmod: "2020-03-06T21:29:01+08:00"
 license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/"
   target="_blank">CC BY-NC 4.0</a>
