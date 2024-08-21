@@ -268,7 +268,7 @@
         "date_modified" : "2021-04-16T14:29:46+01:00",
         "id" : "http://localhost:4321/typeit-tests/",
         "url" : "http://localhost:4321/typeit-tests/",
-        "content_html" : "\u003cdiv class=\"typeit\"\u003e\u003cdiv id=\"id-1\"\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003cdiv class=\"typeit\"\u003e\u003cdiv id=\"id-2\" class=\"highlight\"\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003cdiv class=\"typeit\"\u003e\u003cdiv id=\"id-3\"\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003cdiv class=\"typeit\"\u003e\u003cdiv id=\"id-4\"\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003cp\u003eтест\u003cbr\u003e\nрусский\u003c/p\u003e",
+        "content_html" : "\u003cdiv class=\"typeit\"\u003e\u003cdiv id=\"id-1\"\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003cdiv class=\"typeit\"\u003e\u003cdiv id=\"id-2\" class=\"highlight\"\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003cdiv class=\"typeit\"\u003e\u003cdiv id=\"id-3\"\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003cdiv class=\"typeit\"\u003e\u003cdiv id=\"id-4\"\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003cp\u003eтест\u003cbr\u003e\nрусский\u003c/p\u003e\n\u003cp\u003e22-08-2024 \u0026ndash; 00-28\u003c/p\u003e",
         "language": "ru"
     },
     {
