@@ -1,7 +1,7 @@
 ---
 date: "2021-11-01T20:08:29+08:00"
 draft: false
-title: Showcase
+title: Лучшее
 ---
 
 {{< showcase "Theme Documentation - Basics" "Discover what the Hugo - DoIt theme is all about and the core-concepts behind it." "/theme-documentation-basics/featured-image.webp" "/theme-documentation-basics/" >}}

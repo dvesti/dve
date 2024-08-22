@@ -7,14 +7,14 @@
     <title>Tests</title>
     <link>http://localhost:4321/categories/tests/</link>
     <pubDate>Sat, 11 May 2024 17:54:33 &#43;0100</pubDate><author>
-        <name>Автор</name>
+        <name>Автор : </name>
     </author><guid>http://localhost:4321/categories/tests/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Documentation</title>
+    <title>Документация</title>
     <link>http://localhost:4321/categories/documentation/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
-        <name>Автор</name>
+        <name>Автор : </name>
     </author><guid>http://localhost:4321/categories/documentation/</guid>
     <description><![CDATA[]]></description>
 </item></channel>

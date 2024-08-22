@@ -4,10 +4,10 @@
 
 # === baseof ==
 [backToTop]
-other = "Вверх"
+other = "Наверх"
 
 [viewComments]
-other = "Просмотреть комментарии"
+other = "Посмотреть комментарии"
 # === baseof ==
 
 # === Post ===
@@ -17,7 +17,7 @@ other = "Статьи"
 
 # === Taxonomy ===
 [allSome]
-other = "{{ .Some }}"
+other = "Все {{ .Some }}"
 
 [tag]
 other = "Тэг"
@@ -43,7 +43,7 @@ other = "Недавно обновлены"
 # === Section ===
 # === Pagination ===
 [more]
-other = "Дальше"
+other = "Больше"
 # === Pagination ===
 
 # === partials/header.html ===
@@ -68,13 +68,13 @@ other = "Авто"
 
 # === partials/footer.html ===
 [poweredBy]
-other = "Создано на {{ .Hugo }}"
+other = "Сделано в {{ .Hugo }}"
 
 [hostedOn]
-other = "Размещено на {{ .Host }}"
+other = "Размещено в {{ .Host }}"
 
 [theme]
-other = "Тема : {{ .Theme }}"
+other = "Тема - {{ .Theme }}"
 # === partials/footer.html ===
 
 # === partials/comment.html ===
@@ -82,7 +82,7 @@ other = "Тема : {{ .Theme }}"
 other = "en"
 
 [valinePlaceholder]
-other = "Ваш комментарий..."
+other = "Ваш комментарий ..."
 
 [facebookLanguageCode]
 other = "ru_RU"
@@ -93,7 +93,7 @@ other = "ru_RU"
 other = "Поиск"
 
 [searchPlaceholder]
-other = "Поиск по фразе..."
+other = "Поиск заголовков или содержимого ..."
 
 [clear]
 other = "Очистить"
@@ -102,13 +102,13 @@ other = "Очистить"
 other = "Отменить"
 
 [noResultsFound]
-other = "Ничего не найдено"
+other = "Результатов не найдено"
 
 [copyToClipboard]
 other = "Копировать в буфер обмена"
 
 [cookieconsentMessage]
-other = "Этот сайт использует Cookies"
+other = "Этот сайт использует Cookies для улучшения вашего опыта."
 
 [cookieconsentDismiss]
 other = "Согласен"
@@ -119,7 +119,7 @@ other = "Подробнее"
 
 # === partials/plugin/share.html ===
 [shareOn]
-other = "Поделиться в "
+other = "Поделиться в"
 # === partials/plugin/share.html ===
 
 # === posts/single.html ===
@@ -127,27 +127,27 @@ other = "Поделиться в "
 other = "Содержание"
 
 [publishedOnDate]
-other = "Опубликовано : {{ .Date }}"
+other = "Опубликовано {{ .Date }}"
 
 [includedIn]
-other = ": : "
+other = "включен в "
 
 [includedInAnd]
-other = ": : "
+other = "и"
 
 [includedInCategories]
-one = "Категория : {{ .Categories }}"
-other = "Категории : {{ .Categories }}"
+one = "категорию {{ .Categories }}"
+other = "категории {{ .Categories }}"
 
 [includedInSeries]
-other = "Серия : {{ .Series }}"
+other = "серию {{ .Series }}"
 
 [wordCount]
 one = "Одно слово"
 other = "{{ .Count }} слов"
 
 [readingTime]
-one = "одна минута"
+one = "Одна минута"
 other = "{{ .Count }} минут"
 
 [views]
@@ -157,19 +157,19 @@ other = "просмотров"
 other = "комментариев"
 
 [author]
-other = "Автор : "
+other = "Автор"
 
 [updatedOnDate]
-other = "Oбновлено : {{ .Date }}"
+other = "Oбновлена {{ .Date }}"
 
 [readMarkdown]
-other = "В Markdown"
+other = "Читать Markdown"
 
 [viewSource]
-other = "Источник"
+other = "Посмотреть исходник"
 
 [editThisPage]
-other = "Правка страницы"
+other = "Редактировать страницу"
 
 [reportThisPage]
 other = "Сообщить об ошибке"
@@ -181,7 +181,7 @@ other = "Назад"
 other = "Домой"
 
 [readMore]
-other = "Читать дальше"
+other = "Читать больше"
 
 [outdatedInfoWarningBefore]
 other = "Последний раз статья была обновлена "
@@ -227,7 +227,7 @@ other = "Вопрос"
 other = "Предупреждение"
 
 [failure]
-other = "Неудача"
+other = "Отказ"
 
 [danger]
 other = "Опасность"

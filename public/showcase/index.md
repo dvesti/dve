@@ -1,4 +1,4 @@
-# Showcase
+# Лучшее
 
 
 {{< showcase "Theme Documentation - Basics" "Discover what the Hugo - DoIt theme is all about and the core-concepts behind it." "/theme-documentation-basics/featured-image.webp" "/theme-documentation-basics/" >}}
