@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Статьи - Bolt</title>
+        <title>Архив - Bolt</title>
         <link>http://localhost:4321/posts/</link>
-        <description>Статьи | Bolt</description>
+        <description>Архив | Bolt</description>
         <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 06 Jun 2024 12:41:49 &#43;0100</lastBuildDate><atom:link href="http://localhost:4321/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Typeit Tests</title>
     <link>http://localhost:4321/typeit-tests/</link>
