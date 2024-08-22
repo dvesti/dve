@@ -32,7 +32,7 @@ other = "Категория"
 other = "Категории"
 
 [series]
-other = "Серии"
+other = "Серия"
 # === Taxonomy ===
 
 # === Section ===
@@ -136,11 +136,11 @@ other = ": : "
 other = ": : "
 
 [includedInCategories]
-one = "Категория : {{ .Categories }}"
-other = "Категории : {{ .Categories }}"
+one = "Категория : : {{ .Categories }}"
+other = "Категории : : {{ .Categories }}"
 
 [includedInSeries]
-other = "Серия : {{ .Series }}"
+other = "Серия : : {{ .Series }}"
 
 [wordCount]
 one = "Одно слово"
@@ -157,7 +157,7 @@ other = "просмотров"
 other = "комментариев"
 
 [author]
-other = "Автор : "
+other = "Автор"
 
 [updatedOnDate]
 other = "Oбновлено : {{ .Date }}"

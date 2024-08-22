@@ -69,14 +69,13 @@
     <title>Image Tests</title>
     <link>http://localhost:4321/image-tests/</link>
     <pubDate>Thu, 06 Jun 2024 12:41:49 &#43;0100</pubDate><author>
-        <name>Автор : </name>
-    </author><guid>http://localhost:4321/image-tests/</guid>
+                        <name>Dvesti</name><uri>https://dve.netlify.app</uri><email>dvesti@hot.ee</email></author><guid>http://localhost:4321/image-tests/</guid>
     <description><![CDATA[ Test 1: Test 2: Test 3: ]]></description>
 </item><item>
     <title>Person Tests</title>
     <link>http://localhost:4321/person-tests/</link>
     <pubDate>Sat, 11 May 2024 17:54:33 &#43;0100</pubDate><author>
-        <name>Автор : </name>
+        <name>Автор</name>
     </author><guid>http://localhost:4321/person-tests/</guid>
     <description><![CDATA[Person Shortcode Tests]]></description>
 </item><item>

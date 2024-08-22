@@ -1,27 +1,27 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Серии - Серии - Bolt</title>
+        <title>Серии - Серия - Bolt</title>
         <link>http://localhost:4321/series/</link>
-        <description>Серии - Серии - Bolt</description>
+        <description>Серии - Серия - Bolt</description>
         <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:4321/series/" rel="self" type="application/rss+xml" /><item>
     <title>Getting start with DoIt</title>
     <link>http://localhost:4321/series/getting-start/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
-        <name>Автор : </name>
+        <name>Автор</name>
     </author><guid>http://localhost:4321/series/getting-start/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>How to DoIt</title>
     <link>http://localhost:4321/series/how-to-doit/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
-        <name>Автор : </name>
+        <name>Автор</name>
     </author><guid>http://localhost:4321/series/how-to-doit/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Test Series</title>
     <link>http://localhost:4321/series/test-series/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
-        <name>Автор : </name>
+        <name>Автор</name>
     </author><guid>http://localhost:4321/series/test-series/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
