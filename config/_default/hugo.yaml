@@ -11,3 +11,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+      
+pagination:
+  disableAliases: false
+  pagerSize: 10
+  path: page
+  

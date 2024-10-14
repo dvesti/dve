@@ -40,7 +40,8 @@
                         <name>PCloud</name><uri>https://github.com/HEIGE-PCloud</uri><email>heige.pcloud@outlook.com</email></author><guid>http://localhost:4321/theme-documentation-extended-shortcodes/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/theme-documentation-extended-shortcodes/featured-image-preview.jpg" referrerpolicy="no-referrer">
-            </div><p><strong>DoIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
+            </div><p><strong>DoIt</strong> theme provides multiple shortcodes on top of built-in ones in
+Hugo.</p>]]></description>
 </item><item>
     <title>Basic Markdown Syntax</title>
     <link>http://localhost:4321/basic-markdown-syntax/</link>
@@ -70,7 +71,11 @@
     <link>http://localhost:4321/image-tests/</link>
     <pubDate>Thu, 06 Jun 2024 12:41:49 &#43;0100</pubDate><author>
                         <name>Dvesti</name><uri>https://dve.netlify.app</uri><email>dvesti@hot.ee</email></author><guid>http://localhost:4321/image-tests/</guid>
-    <description><![CDATA[ Test 1: Test 2: Test 3: ]]></description>
+    <description><![CDATA[<ul>
+<li>Test 1: <img class="tw-inline" loading="lazy" src="./pin_black.png"     ></li>
+<li>Test 2: <img class="tw-inline" loading="lazy" src="./pin_red.png"     ></li>
+<li>Test 3: <img class="tw-inline" loading="lazy" src="./pin_white.png"     ></li>
+</ul>]]></description>
 </item><item>
     <title>Person Tests</title>
     <link>http://localhost:4321/person-tests/</link>
